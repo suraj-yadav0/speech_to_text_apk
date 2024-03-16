@@ -33,7 +33,7 @@ class _HomeScreenState extends State<HomeScreen> {
               ),
             ),
         
-         const    Spacer()
+         const   Spacer()
             ],
         ),
       ),
